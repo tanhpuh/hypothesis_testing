@@ -9,7 +9,9 @@ Instructions on how to implement hypothesis testing and correlation evaluation
   - Paired-sample T-test
   - One - Way ANOVA
   - Two - Way ANOVA
-- Pearson Correlation Coefficient
+- Correlation Coefficient
+  - Pearson
+  - Spearman
 
 # File
 - Statistical_Analysis.ipynb
