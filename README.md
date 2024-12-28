@@ -10,5 +10,5 @@ Instructions on how to implement hypothesis testing.
 - Two - Way ANOVA
 
 # File
-- Statistical_Analysis.ipynb
-- Link: https://github.com/tanhpuh/statistical-analysis/blob/main/Statistical%20Analysis.ipynb
+- Hypothesis Testing.ipynb
+- Link: [https://github.com/tanhpuh/statistical-analysis/blob/main/Statistical%20Analysis.ipynb](https://github.com/tanhpuh/hypothesis_testing/blob/main/Hypothesis%20Testing.ipynb)
