@@ -1,17 +1,13 @@
-# Statistical Analysis
-Instructions on how to implement hypothesis testing and correlation evaluation
+# Hypothesis Testing
+Instructions on how to implement hypothesis testing.
 
 # Features
-- Hypothesis Testing
-  - Pearson Chi-Square
-  - One-Sample T-test
-  - Independent-sample T-test
-  - Paired-sample T-test
-  - One - Way ANOVA
-  - Two - Way ANOVA
-- Correlation Coefficient
-  - Pearson
-  - Spearman
+- Pearson Chi-Square
+- One-Sample T-test
+- Independent-sample T-test
+- Paired-sample T-test
+- One - Way ANOVA
+- Two - Way ANOVA
 
 # File
 - Statistical_Analysis.ipynb
