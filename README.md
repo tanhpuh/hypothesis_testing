@@ -1,7 +1,7 @@
-# Hypothesis Testing
+# 🔍 Overview
 Instructions on how to implement hypothesis testing.
 
-# Features
+# ✨ Features
 - Pearson Chi-Square
 - One-Sample T-test
 - Independent-sample T-test
@@ -9,6 +9,6 @@ Instructions on how to implement hypothesis testing.
 - One - Way ANOVA
 - Two - Way ANOVA
 
-# File
+# 📊 File
 - Hypothesis Testing.ipynb
 - Link: [https://github.com/tanhpuh/statistical-analysis/blob/main/Statistical%20Analysis.ipynb](https://github.com/tanhpuh/hypothesis_testing/blob/main/Hypothesis%20Testing.ipynb)
